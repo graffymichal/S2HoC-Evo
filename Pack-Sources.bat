@@ -1,1 +1,1 @@
-.\repak.exe pack .\Changed Stalker-Evo.pak --version V11
+.\repak.exe pack .\Changed Deta_Stalker-Evo_Mod.pak --version V11
